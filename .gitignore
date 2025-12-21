@@ -1,0 +1,9 @@
+/build/
+**/build/
+/sdkconfig.old
+/managed_components/
+*.bin
+*.elf
+*.map
+.DS_Store
+.vscode/
