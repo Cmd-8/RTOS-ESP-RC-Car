@@ -7,3 +7,10 @@
 *.map
 .DS_Store
 .vscode/
+# KiCad / CAD junk
+*.bak
+*.lck
+*.kicad_prl
+fp-info-cache
+*.backup
+*.log
